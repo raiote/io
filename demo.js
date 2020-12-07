@@ -1,4 +1,4 @@
 
 function test(name) {
-    alert(name)
+    alert( name)
 }
